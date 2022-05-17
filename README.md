@@ -59,6 +59,6 @@ I'm a Computer Science student at the Lebanese American University
 ------------------
 ### :fire: My Status :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OmarMlaeb&theme=dark&background=000000)](https://git.io/streak-stats)
+![Omar's GitHub status](https://github-readme-stats.vercel.app/api?username=OmarMlaeb&show_icons=true&theme=dark&background=000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMlaeb&langs_count=8&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
